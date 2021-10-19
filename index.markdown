@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome Home!
 ---
-# First Post
-Hey yall, here's a *test post*.
-## Beep boop
-- here
+# Big Talk
