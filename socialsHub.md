@@ -4,20 +4,18 @@ layout: page
 ---
 ***\*Take these with as many grains of salt as you'd like\****
 
-### Latest
-<details><summary></summary>
-  
+<details><summary><h4 style="display: inline;"> Latest</h4></summary>
+
 - [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
 - [every.org](https://every.org)
 - [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
 </details>
 
-### [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
-### [Posts](https://thesre.github.io/oldSite/posts/)
-### Drawings
-### Food
-### Misc Links
-<details><summary></summary>
+#### [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
+#### [Posts](https://thesre.github.io/oldSite/posts/)
+#### [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
+#### [Food](https://thesre.github.io/oldSite/interests/food.html)
+<details><summary><h4 style="display: inline;"> Misc Links</h4></summary>
 
 - ["How Rich Am I?" Calculator](https://www.givingwhatwecan.org/) (bottom of page)
 - Factory Farms and Antimicrobial Resistance (AMR)
