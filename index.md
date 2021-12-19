@@ -5,8 +5,9 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
+title: Welcome Home!
 layout: home
 ---
 
-# Under Construction Currently!
+## Under Construction Currently!
 Enter at your own risk :)
