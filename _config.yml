@@ -1,17 +1,14 @@
 title: Sean's Site
 description: > # this means to ignore newlines until "show_excerpts:"
 
-show_excerpts: false # set to true to show excerpts on the homepage
+# show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
 
-kramdown:
-  math_engine: katex
-
 theme: minima
+markdown: CommonMarkGhPages
 
 plugins:
  - jekyll-feed
- - jekyll-seo-tag
