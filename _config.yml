@@ -8,7 +8,7 @@ minima:
   skin: dark
 
 theme: minima
-markdown: kramdown
+markdown: CommonMarkGhPages
 
 plugins:
   - jekyll-feed

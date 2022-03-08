@@ -6,6 +6,7 @@ layout: page
 
 <details><summary><h4 style="display: inline;"> Latest</h4></summary>
 
+- [Nuclear Advice, in 60(ish) Seconds](https://nuclearadvice.org/)
 - [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
 - [every.org](https://every.org)
 - [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
