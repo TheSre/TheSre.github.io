@@ -6,10 +6,8 @@ layout: page
 
 <details><summary><h4 style="display: inline;"> Latest</h4></summary>
 
+- [FEMA's collection of emergency scenario guidelines](https://www.ready.gov/sites/default/files/2021-01/ready_full-suite_hazard-info-sheets.pdf)
 - [Nuclear Advice, in 60(ish) Seconds](https://nuclearadvice.org/)
-- [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
-- [every.org](https://every.org)
-- [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
 </details>
 
 #### [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
@@ -18,6 +16,9 @@ layout: page
 #### [Food](https://thesre.github.io/oldSite/interests/food.html)
 <details><summary><h4 style="display: inline;"> Misc Links</h4></summary>
 
+- [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
+- [every.org](https://every.org)
+- [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
 - ["How Rich Am I?" Calculator](https://www.givingwhatwecan.org/) (bottom of page)
 - Factory Farms and Antimicrobial Resistance (AMR)
   - [Why Factory Farms Are a Likely Source of the Next Pandemic](https://www.youtube.com/watch?v=hwuujiHvduc)
