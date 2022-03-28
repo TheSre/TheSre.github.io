@@ -4,18 +4,19 @@ layout: page
 ---
 ***\*Take these with as many grains of salt as you'd like\****
 
-<details><summary><h4 style="display: inline;"> Latest</h4></summary>
+- Table of Contents
+{:toc}
+
+## Latest
 
 - [FEMA's collection of emergency scenario guidelines](https://www.ready.gov/sites/default/files/2021-01/ready_full-suite_hazard-info-sheets.pdf)
 - [Nuclear Advice, in 60(ish) Seconds](https://nuclearadvice.org/)
-</details>
 
-#### [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
-#### [Posts](https://thesre.github.io/oldSite/posts/)
-#### [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
-#### [Food](https://thesre.github.io/oldSite/interests/food.html)
-<details><summary><h4 style="display: inline;"> Misc Links</h4></summary>
-
+## [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
+## [Posts](https://thesre.github.io/oldSite/posts/)
+## [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
+## [Food](https://thesre.github.io/oldSite/interests/food.html)
+## Misc Links
 - [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
 - [every.org](https://every.org)
 - [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
@@ -61,4 +62,3 @@ matching and helps you to give to effective charities
 - Personal Finance for Giving
   - [Planned Giving For Everyone](https://aaronhamlin.medium.com/planned-giving-for-everyone-15b9baf88632)
   - [Yield & Spread: donation-based personal finance course](https://yieldandspread.wixsite.com/personal-finance)
-</details>
