@@ -2,6 +2,9 @@
 title: Vegan Nutrition Resources
 layout: page
 ---
+- Table of Contents
+{:toc}
+
 ## Info Sources
 - [VeganHealth](https://veganhealth.org/daily-needs/)
   - The VeganHealth site is the single most helpful resource I've found (and something I
