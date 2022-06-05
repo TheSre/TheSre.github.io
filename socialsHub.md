@@ -14,8 +14,8 @@ layout: page
 
 ## [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
 ## [Posts](https://thesre.github.io/oldSite/posts/)
-- (looking back now, I cringe at the writing style of some of these posts, though, from a
-  brief look, I still support the content of them)
+- Looking back now, I cringe at the writing style of some of these posts. Though, from a
+  brief look, I still support the content of them.
 
 ## [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
 ## Misc Links
