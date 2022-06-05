@@ -15,7 +15,6 @@ layout: page
 ## [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
 ## [Posts](https://thesre.github.io/oldSite/posts/)
 ## [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
-## [Food](https://thesre.github.io/oldSite/interests/food.html)
 ## Misc Links
 - [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
 - [every.org](https://every.org)
