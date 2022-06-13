@@ -31,7 +31,7 @@ exclude: true
 - [Multivitamin](https://www.vegansociety.com/shop/veg-1-supplements?fbclid=IwAR1JxKVfcRZU0odM4IB_hWoxpRx_iv3qT1NZQckJMF5DTppK_A0QsXzV_G0) I take 
   - I compared a lot of options before settling on this one. Feel free to message me for
     more info on why I chose this one.
-- The one supplement I take
+- The [one supplement](https://www.vitacost.com/pure-encapsulations-calcium-citrate) I take
   - I could do without these, but feel like they give me a bit more flexibility: e.g. to
     not as consistently eat high-calcium, low-oxalate greens or other good sources of
     calcium.
