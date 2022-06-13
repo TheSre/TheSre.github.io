@@ -1,6 +1,7 @@
 ---
 title: Vegan Nutrition Resources
 layout: page
+exclude: true
 ---
 - Table of Contents
 {:toc}
