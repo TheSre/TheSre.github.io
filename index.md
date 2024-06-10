@@ -9,5 +9,11 @@ title: Welcome Home!
 layout: home
 ---
 
-## Under Construction Currently!
-[My Old Site](https://thesre.github.io/oldSite/)
+
+
+## [Thoughts](/thoughts.html)
+## [My Old Site](https://thesre.github.io/oldSite/)
+{% comment %}
+## Posts
+## Change
+{% endcomment %}
