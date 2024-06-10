@@ -11,6 +11,7 @@ layout: home
 
 
 
+## [Thoughts on Calling Officials](calling_officials.html)
 ## [Thoughts](/thoughts.html)
 ## [My Old Site](https://thesre.github.io/oldSite/)
 {% comment %}
