@@ -8,9 +8,7 @@ layout: page
 {:toc}
 
 ## Latest
-
-- [FEMA's collection of emergency scenario guidelines](https://www.ready.gov/sites/default/files/2021-01/ready_full-suite_hazard-info-sheets.pdf)
-- [Nuclear Advice, in 60(ish) Seconds](https://nuclearadvice.org/)
+- [Thoughts on Calling Elected Officials](calling_officials.md)
 
 ## [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
 ## [Posts](https://thesre.github.io/oldSite/posts/)
@@ -19,6 +17,8 @@ layout: page
 
 ## [Drawings](https://thesre.github.io/oldSite/interests/drawing.html)
 ## Misc Links
+- [FEMA's collection of emergency scenario guidelines](https://www.ready.gov/sites/default/files/2021-01/ready_full-suite_hazard-info-sheets.pdf)
+- [Nuclear Advice, in 60(ish) Seconds](https://nuclearadvice.org/)
 - [Personal invite link for the GivingMultiplier](https://givingmultiplier.org/invite/8A0F0D21)
 - [every.org](https://every.org)
 - [Daphne DiFazio's Transition Fund](https://gofund.me/c7d84073)
