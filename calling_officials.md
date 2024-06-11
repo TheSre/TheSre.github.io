@@ -45,7 +45,7 @@ I came across some of the below tips for calling officials, which I found useful
     - Prefix the names of these contacts with something distinct, so
       that you can easily search for them when you're calling officials.
       - e.g. "EO - Sen Durbin DC Office" (EO for elected official,
-        then search for "EO when wanting to see all the numbers of
+        then search for "EO" when wanting to see all the numbers of
         your officials)
     - When reading, I came across multiple examples of people who make
       6 calls to their officials everyday -- one to each of these
@@ -102,9 +102,9 @@ I came across some of the below tips for calling officials, which I found useful
 5. If you feel nervous about making a call and having a live staffer
    answer, that's OK -- you got this :). You could start by calling
    outside of business hours, when you'll just be prompted to leave a
-   message. Then, once you're comfortable with this, you can try
+   voicemail. Then, once you're comfortable with this, you can try
    calling during business hours and get used to giving your message
-   to a live staffer. Remember, they receive calls everyday and, if
+   to a live staffer. Remember, they receive calls everyday, and, if
    you give some attention and care to your message, there's a decent
    chance you'll be one of the more thoughtful, informed callers they
    get that day.
