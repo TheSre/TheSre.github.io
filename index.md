@@ -12,7 +12,6 @@ layout: home
 
 
 ## [Thoughts on Calling Officials](calling_officials.html)
-## [Thoughts](/thoughts.html)
 {% comment %}
 ## Posts
 ## Change
