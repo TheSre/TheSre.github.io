@@ -1,6 +1,6 @@
 ---
 title: Yvi's Belated Bday Beach Bash!
-layout: page
+layout: base
 exclude: true
 ---
 
