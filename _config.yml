@@ -10,5 +10,7 @@ minima:
 theme: minima
 markdown: kramdown
 
+url: 'https://thesre.github.io/'
+
 plugins:
   - jekyll-feed
