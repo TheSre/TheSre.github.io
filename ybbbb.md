@@ -8,6 +8,8 @@ exclude: true
 
 ![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif)  
 
+---
+
 Hi friends!
 We'd love it if you can join us for a belated birthday hangout for Yvi!
 We're planning to set up on the concrete area of Montrose beach (exact location will be provided day of). Please see COVID guidelines at the end of the description!
