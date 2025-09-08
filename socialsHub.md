@@ -10,4 +10,7 @@ layout: page
 ## Latest
 - [Thoughts on Calling Elected Officials](calling_officials.md)
 
+
+{% comment %}
 ## [Anonymous Feedback Form](https://www.cognitoforms.com/Independent40/anonymousfeedbackforsean)
+{% endcomment %}
