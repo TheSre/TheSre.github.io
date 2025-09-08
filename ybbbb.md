@@ -4,6 +4,8 @@ layout: base
 exclude: true
 ---
 
+# Yvi's Belated Bday Beach Bash!
+
 
 {:refdef: style="text-align: center;"}
 ![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif)
