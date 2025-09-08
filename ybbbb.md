@@ -4,11 +4,12 @@ layout: page
 exclude: true
 ---
 
-## 3pm on Sunday, Sept. 14 @ Montrose Beach
 
 ![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif)  
 
 ---
+
+## 3pm on Sunday, Sept. 14 @ Montrose Beach
 
 Hi friends!
 We'd love it if you can join us for a belated birthday hangout for Yvi!
