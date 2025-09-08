@@ -5,9 +5,9 @@ exclude: true
 ---
 
 
-![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif)  
+![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif){: .align-center}
 
----
+<br>
 
 ## 3pm on Sunday, Sept. 14 @ Montrose Beach
 
