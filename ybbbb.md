@@ -14,7 +14,7 @@ exclude: true
 
 Hi friends!
 We'd love it if you can join us for a belated birthday hangout for Yvi!
-We're planning to set up on the concrete area of Montrose beach (exact location will be provided day of). Please see COVID guidelines at the end of the description!
+We're planning to set up on the concrete area of Montrose beach (exact location will be provided day of). Please see COVID guidelines at the end of this page!
 
 Some snacks / treats / drinks will be provided, but if you're able to bring any as well, that would be very appreciated! We'll also be playing music and song requests will be taken :)
 
@@ -22,7 +22,7 @@ Online it says that Montrose beach does have restrooms available, though I haven
 
 Remember to bring sunscreen, something to sit on, and swim gear if you wanna :)
 
-COVID Guidelines:
+**COVID Guidelines**
 - we ask that you either test or stay masked in a KN95 / N95
 - if testing and unmasking, please either take 1 PlusLife test day of, or 2 rapid tests (1 two days before and 1 day of)
 - we will try to find a place on the beach that's not too crowded
