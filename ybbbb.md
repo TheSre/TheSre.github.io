@@ -5,7 +5,9 @@ exclude: true
 ---
 
 
-![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif){: .align-center}
+{:refdef: style="text-align: center;"}
+![Finn from Adventure Time running towards a wave, then running away from it scared](/assets/beach.gif)
+{: refdef}
 
 <br>
 
