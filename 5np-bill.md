@@ -21,34 +21,16 @@ help.
 [Here](https://docs.google.com/document/d/1nHnQkQil2YdD-eE5Qgrcu0e6VPCuefUKOzDapDcAZ0Q/edit?tab=) is more information about the protocol.
 
 # Submit a Witness Slip!
-Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
-
-## Witness Slip #1
-1. Click the witness slip link (above)
-1. Locate:
-  HB2715 – Lilian Jiménez
-  ACUPUNCTURE-5-NEEDLE PROTOCOL
-  Assigned to Health Care Licenses Committee
-1. Click the + to open and fill out the witness slip.
-    1. Identification: Enter your personal information.
-    1. Representation: List your affiliation if applicable.
-    1. Position: Add two positions:
-        * Dropdown menu → Original Bill → Proponent → Click Add Position
-        * Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position
-        * You should now see on the right under Legislative Positions:
-            * Original Bill — Proponent
-            * HCA 1 — Proponent
-    1. Testimony: Click “Record of Appearance.”
-    1. Agree to ILGA Terms and click “Submit Witness Slip.”
-
-## Witness Slip #2
-1. Click the witness slip link (above).
-1. Scroll again to “Bills Assigned to Hearing.”
-1. Locate:
-  HB2715 – Lilian Jiménez
-  House Committee Amendment No. 1
-  Rules Refers to Health Care Licenses Committee
-1. Click the + and repeat step 3 above.
-1. In total, please submit two witness slips, each listing two proponent positions.
+1. Go to [this page](https://www.ilga.gov/House/hearings/details/3092/22581/CreateWitnessSlip/).
+1. Identification: Enter your personal information.
+1. Representation: List your org affiliation if applicable. If any information is not applicable to you, put n/a. 
+1. Position: Add two positions: 
+    1. Dropdown menu → Original Bill → Proponent → Click Add Position.
+    1. Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position.
+    1. You should now see on the right under Legislative Positions:
+        * Original Bill — Proponent
+        * HCA 1 — Proponent
+1. Testimony: Click “Record of Appearance.”
+1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
 ### Thank you in advance!!
