@@ -38,7 +38,7 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
       * You should now see on the right under Legislative Positions:
           * Original Bill — Proponent
           * HCA 1 — Proponent
-  1. Click “Record of Appearance.”
+  1. Testimony: Click “Record of Appearance.”
   1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
 ## Witness Slip #2
