@@ -5,15 +5,15 @@ exclude: true
 ---
 
 # Background
-Community & grassroots acupuncturists & organizers are lobbying for a
-legalization of non acupuncturist practitioners to be able to provide
+Community and grassroots acupuncturists and organizers are lobbying for the
+legalization of non-acupuncturist practitioners to be able to provide
 the NADA treatment, which is an auricular protocol used by the Black
 Panthers and Young Lords in the 1970s to detox marginalized
-communities off of drugs. It is used in mental health, trauma, and
+communities off of drugs. It is used to treat mental health issues, trauma, and
 addiction. Passing this bill essentially means folks can be trained on
 the protocol to serve marginalized communities without going through
 6-8+ years of acupuncture (medical) school, meaning more people will
-be able to provide this treatment to people who need it! 
+be able to provide this treatment to those who need it! 
 
 We need support! Below is information about NADA and how you can
 help.
