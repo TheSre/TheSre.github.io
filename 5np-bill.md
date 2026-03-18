@@ -42,13 +42,13 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
     1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
 ## Witness Slip #2
-1. Click the witness slip link (above)
-1. Scroll again to “Bills Assigned to Hearing.”
+1. Click the witness slip link (above).
+1. Scroll again to “Bills Assigned to Hearing”.
 1. Locate:
   HB2715 – Lilian Jiménez
   House Committee Amendment No. 1
   Rules Refers to Health Care Licenses Committee
-1. Click the + and repeat step 3 above
+1. Click the + and repeat step 3 above.
 1. In total, please submit two witness slips, each listing two proponent positions.
 
 ### Thank you in advance!!
