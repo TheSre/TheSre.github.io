@@ -30,16 +30,16 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
   ACUPUNCTURE-5-NEEDLE PROTOCOL
   Assigned to Health Care Licenses Committee
 1. Click the + to open the witness slip.
-  1. Identification: Enter your personal information.
-  1. Representation: List your affiliation if applicable
-  1. Position: Add two positions:
-      * Dropdown menu → Original Bill → Proponent → Click Add Position
-      * Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position
-      * You should now see on the right under Legislative Positions:
-          * Original Bill — Proponent
-          * HCA 1 — Proponent
-  1. Testimony: Click “Record of Appearance.”
-  1. Agree to ILGA Terms and click “Submit Witness Slip.”
+    1. Identification: Enter your personal information.
+    1. Representation: List your affiliation if applicable
+    1. Position: Add two positions:
+        * Dropdown menu → Original Bill → Proponent → Click Add Position
+        * Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position
+        * You should now see on the right under Legislative Positions:
+            * Original Bill — Proponent
+            * HCA 1 — Proponent
+    1. Testimony: Click “Record of Appearance.”
+    1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
 ## Witness Slip #2
 1. Click the witness slip link (above)
