@@ -4,7 +4,7 @@ layout: base
 exclude: true
 ---
 
-## Background
+# Background
 Community and grassroots acupuncturists and organizers are lobbying for the
 legalization of non-acupuncturist practitioners to be able to provide
 the NADA treatment, which is an auricular protocol used by the Black
@@ -20,10 +20,10 @@ help.
 
 [Here](https://docs.google.com/document/d/1nHnQkQil2YdD-eE5Qgrcu0e6VPCuefUKOzDapDcAZ0Q/edit?tab=) is more information about the protocol.
 
-## Submit a Witness Slip!
+# Submit a Witness Slip!
 Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
 
-### Witness Slip #1
+## Witness Slip #1
 1. Click the witness slip link
 1. Locate:
   HB2715 – Lilian Jiménez
@@ -41,7 +41,7 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
   1. Click “Record of Appearance.”
   1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
-### Witness Slip #2
+## Witness Slip #2
 1. Click the witness slip link (above)
 1. Scroll again to “Bills Assigned to Hearing.”
 1. Locate:
@@ -51,4 +51,4 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
 1. Click the + and repeat step 3 above
 1. In total, please submit two witness slips, each listing two proponent positions.
 
-#### Thank you in advance!!
+### Thank you in advance!!
