@@ -29,7 +29,7 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
   HB2715 – Lilian Jiménez
   ACUPUNCTURE-5-NEEDLE PROTOCOL
   Assigned to Health Care Licenses Committee
-1. Click the + to open and fill out the the witness slip.
+1. Click the + to open and fill out the witness slip.
     1. Identification: Enter your personal information.
     1. Representation: List your affiliation if applicable
     1. Position: Add two positions:
