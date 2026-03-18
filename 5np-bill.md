@@ -24,7 +24,7 @@ help.
 Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
 
 ## Witness Slip #1
-1. Click the witness slip link
+1. Click the witness slip link (above)
 1. Locate:
   HB2715 – Lilian Jiménez
   ACUPUNCTURE-5-NEEDLE PROTOCOL
