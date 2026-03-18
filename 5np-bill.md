@@ -1,6 +1,6 @@
 ---
 title: Submit a Witness Slip to Support 5NP!
-layout: page
+layout: base
 exclude: true
 ---
 
