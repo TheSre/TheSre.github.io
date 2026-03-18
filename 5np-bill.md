@@ -33,11 +33,11 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
   1. Identification: Enter your personal information.
   1. Representation: List your affiliation if applicable
   1. Position: Add two positions:
-    - Dropdown menu → Original Bill → Proponent → Click Add Position
-    - Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position
-    - You should now see on the right under Legislative Positions- see attached legislative slip (png)
-    - Original Bill — Proponent
-    - HCA 1 — Proponent
+      * Dropdown menu → Original Bill → Proponent → Click Add Position
+      * Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position
+      * You should now see on the right under Legislative Positions- see attached legislative slip (png)
+      * Original Bill — Proponent
+      * HCA 1 — Proponent
   1. Click “Record of Appearance.”
   1. Agree to ILGA Terms and click “Submit Witness Slip.”
 
