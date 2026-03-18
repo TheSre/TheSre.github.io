@@ -23,7 +23,8 @@ help.
 # Submit a Witness Slip!
 1. Go to [this page](https://www.ilga.gov/House/hearings/details/3092/22581/CreateWitnessSlip/).
 1. Identification: Enter your personal information.
-1. Representation: List your org affiliation if applicable. If any information is not applicable to you, put n/a. 
+1. Representation: List your org affiliation if applicable. If any
+   information is not applicable to you, put N/A. 
 1. Position: Add two positions: 
     1. Dropdown menu → Original Bill → Proponent → Click Add Position.
     1. Return to dropdown menu → Select HCA 1 → Proponent → Click Add Position.
