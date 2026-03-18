@@ -43,7 +43,7 @@ Go to [this link](https://www.ilga.gov/House/hearings/details/3092/22581).
 
 ## Witness Slip #2
 1. Click the witness slip link (above).
-1. Scroll again to “Bills Assigned to Hearing”.
+1. Scroll again to “Bills Assigned to Hearing.”
 1. Locate:
   HB2715 – Lilian Jiménez
   House Committee Amendment No. 1
