@@ -21,7 +21,7 @@ help.
 [Here](https://docs.google.com/document/d/1nHnQkQil2YdD-eE5Qgrcu0e6VPCuefUKOzDapDcAZ0Q/edit?tab=) is more information about the protocol.
 
 # Submit a Witness Slip!
-1. Go to [this page](https://www.ilga.gov/House/hearings/details/3092/22581/CreateWitnessSlip/?legislationId=160707&GaId=18&View=Create&utm_source=ig&utm_medium=social&utm_content=link_in_bio).
+1. Go to [this page](https://www.ilga.gov/house/hearings/details/3092/22640/CreateWitnessSlip/?legislationId=160707&GaId=18&View=Create).
 1. Identification: Enter your personal information.
 1. Representation: List your org affiliation, if applicable. If not
    applicable to you, put N/A. 
